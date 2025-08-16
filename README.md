@@ -1,0 +1,1 @@
+PROJECT : The goal of this project is to develop a machine learning model that can accurately predict the presence of lung cancer using patient data such as patient age, gender, habits of alcohol consumption or smoking, air pollution or past medical records.
